@@ -2,7 +2,7 @@
 แอพพลิเคชันการพยากรอากาศในประเทศไทย (Thailand Weather Forcast)
 
 ## Requirements:
-* Node >= 10.0.0
+* Node LTS
 * NPM
 * Git
 * react-native-cli
